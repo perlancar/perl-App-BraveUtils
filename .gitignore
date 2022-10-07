@@ -1,0 +1,5 @@
+App-BraveUtils-*
+.build
+*~
+nytprof*
+.DS_Store
